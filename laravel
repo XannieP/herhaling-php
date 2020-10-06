@@ -1,0 +1,20 @@
+Laravel project laten werken
+
+# stap 1 
+.env database naam geven die je wil
+
+# stap 2 
+php artisan migrate
+
+# stap 3
+php artisan db:seed 
+
+# stap admin
+email :   admin@gmail.com
+wachtwoord: 1234568
+
+# stap user
+email :   user@gmail.com
+wachtwoord: 1234568
+
+
